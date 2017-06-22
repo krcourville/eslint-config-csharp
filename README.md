@@ -13,9 +13,9 @@ intuitive
 a team
 1. **centralized reference**: spend less time debating and getting
 team members up-so-speed more time creating profitable solutions.
-1. **best practices**: Some styles are derived from hard-earned
- experience and are in place help developers to avoid common pitfalls
- and sometimes very subtle issues.  JavaScript, in particular, is very
+1. **best practices**: Best practices are derived from hard-earned
+ experience and are provided to help developers to avoid common
+ pitfalls. JavaScript, in particular, is very
  prone to mis-use as it is often regarded as a secondary language for
  hacking one-off functionality into place.
 
