@@ -50,6 +50,7 @@ Exceptions and or modifications to the styles outlined in
 Prefer double quotes over single quotes
 
 > Why?
+
 > C# (and also Java) developers have muscule memory for entering
     strings with double quotes.  Using double quotes makes
     the context switch easier.
@@ -67,7 +68,8 @@ Rules additional to those found in [Inherits From](#inherits-from).
 
 1. Do not use 3rd-party libraries when native functionality is available.
 
-    > Why? Promotes consistency.
+    > Why? 
+    > Promotes consistency.
     > Makes code more portable by not relying on unnecessary 3rd party
     > libraries.
 
@@ -90,7 +92,8 @@ Rules additional to those found in [Inherits From](#inherits-from).
 
 2. Limit a single file to 100-300 lines (not including white space)
 
-    > Why? Larger files increase the chance of merge
+    > Why? 
+    > Larger files increase the chance of merge
     conflicts and usually are the sign that
     [SRP](https://en.wikipedia.org/wiki/Single_responsibility_principle)
     is not being applied well.
