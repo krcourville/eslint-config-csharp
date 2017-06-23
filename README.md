@@ -21,8 +21,9 @@ team members up-so-speed more time creating profitable solutions.
 
 ## TODO
 
-- [ ] Create easlint-config-csharp ESLint module
+- [ ] Create eslint-config-csharp ESLint module
 - [ ] Publish to npm
+- [ ] Create eslint-config-csharp installation instructions
 
 ## <a name="inherits-from"></a>Inherits From
 
