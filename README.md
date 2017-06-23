@@ -57,6 +57,7 @@ Prefer double quotes over single quotes
     to avoid escaping. In this case, the single quotes help to point
     out there are special characters in use, similiar to using the
     @ sign with a C# string.
+    
 > Double quotes follows the JSON spec.
 
 ## <a name="additions"></a>Additions
