@@ -68,10 +68,11 @@ Rules additional to those found in [Inherits From](#inherits-from).
 
 1. Do not use 3rd-party libraries when native functionality is available.
 
-    > Why? 
-    > Promotes consistency.
-    > Makes code more portable by not relying on unnecessary 3rd party
-    > libraries.
+> Why? 
+
+> Promotes consistency.
+
+> Makes code more portable by not relying on unnecessary 3rd party libraries.
 
     ```
     const values = [1, 2, 3];
@@ -92,8 +93,9 @@ Rules additional to those found in [Inherits From](#inherits-from).
 
 2. Limit a single file to 100-300 lines (not including white space)
 
-    > Why? 
-    > Larger files increase the chance of merge
+> Why? 
+
+> Larger files increase the chance of merge
     conflicts and usually are the sign that
     [SRP](https://en.wikipedia.org/wiki/Single_responsibility_principle)
     is not being applied well.
