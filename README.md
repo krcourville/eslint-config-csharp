@@ -48,17 +48,16 @@ Exceptions and or modifications to the styles outlined in
 [Strings 6.1](https://github.com/airbnb/javascript#strings--quotes)
 Prefer double quotes over single quotes
 
-    > Why?
-    > C# (and also Java) developers have muscule memory for entering
-    > strings with double quotes.  Using double quotes makes
-    > the context switch easier.
-    >
-    > Single quotes can still be used
-    > to avoid escaping. In this case, the single quotes help to point
-    > out there are special characters in use, similiar to using the
-    > @ sign with a C# string.
-    >
-    > Also, double quotes follows the JSON spec.
+> Why?
+> C# (and also Java) developers have muscule memory for entering
+    strings with double quotes.  Using double quotes makes
+    the context switch easier.
+    
+> Single quotes can still be used
+    to avoid escaping. In this case, the single quotes help to point
+    out there are special characters in use, similiar to using the
+    @ sign with a C# string.
+> Double quotes follows the JSON spec.
 
 ## <a name="additions"></a>Additions
 
